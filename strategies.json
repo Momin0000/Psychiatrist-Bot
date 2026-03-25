@@ -1,0 +1,142 @@
+{
+  "anxiety": {
+    "questions": [
+      "When you feel anxious, what thoughts usually come first?",
+      "What situations tend to trigger your anxiety most often?",
+      "How does your body feel when anxiety shows up?"
+    ],
+    "strategies": [
+      "Try box breathing: inhale 4s, hold 4s, exhale 4s, hold 4s.",
+      "Label your worry in one sentence, then write evidence for and against it.",
+      "Practice grounding: name 5 things you see, 4 feel, 3 hear, 2 smell, 1 taste.",
+      "Lengthen your exhale: breathe in 4s, out 6–8s for 2 minutes.",
+      "Shift attention: do a short, absorbing task like tidying or doodling."
+    ]
+  },
+  "sadness": {
+    "questions": [
+      "When you feel sad, is it about the past, present, or future?",
+      "What usually helps you a little when sadness comes?",
+      "Is this sadness connected to something specific or more general?"
+    ],
+    "strategies": [
+      "Do one small kindness for yourself — tea, music, or a short walk.",
+      "Write a compassionate note to yourself in second person.",
+      "Reach out to someone you trust with a short message.",
+      "Schedule one pleasant activity, even if small.",
+      "Move your body gently — stretching, walking, or light exercise."
+    ]
+  },
+  "anger": {
+    "questions": [
+      "When anger shows up, what’s the need behind it?",
+      "How do you usually notice anger in your body?",
+      "Is your anger more about the situation or about feeling unheard?"
+    ],
+    "strategies": [
+      "Pause. Name your anger’s intensity 0–10. Then breathe slowly.",
+      "Step back for 90 seconds before responding.",
+      "Write the situation, your need, and a respectful request in one sentence.",
+      "Release energy with brief physical activity, like a brisk walk.",
+      "Reframe: ask what value your anger is protecting."
+    ]
+  },
+  "stress": {
+    "questions": [
+      "What feels most overwhelming to you right now?",
+      "Is your stress from too much to do, or from uncertainty?",
+      "What helps you lower stress even a little?"
+    ],
+    "strategies": [
+      "Box breathing: 4 in, 4 hold, 4 out, 4 hold, repeat 8 cycles.",
+      "List your top 3 stressors. Circle one you can influence today.",
+      "Do a brisk 5–10 minute walk.",
+      "Break your task into 10-minute chunks.",
+      "Step away and stretch for 2 minutes."
+    ]
+  },
+  "loneliness": {
+    "questions": [
+      "When you feel lonely, what kind of connection do you miss most?",
+      "Do you prefer reaching out in person or online when you’re lonely?",
+      "Is your loneliness about lack of company or lack of feeling understood?"
+    ],
+    "strategies": [
+      "Send a short check-in message to someone you trust.",
+      "Plan a brief call or meet-up within 24 hours.",
+      "Join an online group aligned with a hobby.",
+      "Spend time in a public space, even without direct interaction.",
+      "Write down 3 people who have supported you before."
+    ]
+  },
+  "motivation": {
+    "questions": [
+      "When you feel unmotivated, is it from exhaustion or doubt?",
+      "What’s one thing you wish you could move forward on right now?",
+      "Does starting small usually help you regain momentum?"
+    ],
+    "strategies": [
+      "Do a 2-minute starter on the task now.",
+      "Define a 10-minute sprint, then reassess.",
+      "Write the next step as verb + object, then act.",
+      "Pair the task with music or environment change.",
+      "Reward yourself after a short completion."
+    ]
+  },
+  "sleep": {
+    "questions": [
+      "Do you struggle more with falling asleep or staying asleep?",
+      "Does your mind race at night or your body feel restless?",
+      "What usually helps you wind down?"
+    ],
+    "strategies": [
+      "Aim for consistent wake times.",
+      "Avoid screens 1 hour before bed.",
+      "Progressive muscle relaxation in bed.",
+      "Keep your room dark and cool.",
+      "Try a short wind-down routine like journaling."
+    ]
+  },
+  "focus": {
+    "questions": [
+      "What usually distracts you most when you want to focus?",
+      "Is your difficulty more about starting or sustaining focus?",
+      "What task do you wish you could make progress on now?"
+    ],
+    "strategies": [
+      "Use 25/5 focus cycles (Pomodoro).",
+      "Define a clear finish line for the next session.",
+      "Remove one distraction from reach for 20 minutes.",
+      "Switch to a quieter environment.",
+      "Start with a very small part of the task."
+    ]
+  },
+  "confidence": {
+    "questions": [
+      "When confidence drops, what thought usually comes up?",
+      "Is it more about fear of failure or fear of judgment?",
+      "What past success could you recall right now?"
+    ],
+    "strategies": [
+      "Recall a past success and reuse one step from it.",
+      "Balance self-talk: 'This is hard AND I can take one step.'",
+      "Practice the task in low-stakes settings first.",
+      "List strengths you’ve shown in similar situations.",
+      "Ask for small feedback before full exposure."
+    ]
+  },
+  "relationships": {
+    "questions": [
+      "When you think about relationships, what’s hardest right now?",
+      "Do you struggle more with expressing needs or setting boundaries?",
+      "What kind of connection feels most supportive to you?"
+    ],
+    "strategies": [
+      "Reflect back what you heard before sharing your view.",
+      "State a boundary clearly and kindly.",
+      "Schedule quality time with someone uplifting.",
+      "Express appreciation for something small.",
+      "Choose one relationship to nurture this week."
+    ]
+  }
+}
